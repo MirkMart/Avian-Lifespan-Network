@@ -1,0 +1,13 @@
+# This configuration file is used by alignment_trimming.smk snakefile
+
+trimming_params:
+  entropy1: 0.5
+  gaps1: 0.4
+  entropy2: 1
+  gaps2: 0.8:1
+  matrix: BLOSUM30
+  type: AA
+
+alignment_params:
+  algorithm: auto
+  type: amino
