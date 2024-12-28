@@ -1,0 +1,2 @@
+Alignment_name	No_of_taxa	Alignment_length	Total_matrix_cells	Undetermined_characters	Missing_percent	No_variable_sites	Proportion_variable_sites	Parsimony_informative_sites	Proportion_parsimony_informative	A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	B	J	Z	X	.	*	-	?
+species_tree_concat.fa	141	237116	33433356	933858	2.793	103737	0.437	66549	0.281	2084148	742072	1596162	2216483	1311867	1882435	849075	1686841	2065913	3137199	772822	1358870	1750251	1468442	1656249	2693960	1751966	2070403	386438	1017902	0	0	0	2456	0	0	748896	182506
