@@ -1,5 +1,0 @@
-# This configuration file is used by gene_tree.smk snakefile
-
-IQ_tree:
-  models: JTT,Q.bird,Q.mammal
-  algorithm: MF
