@@ -1,0 +1,87 @@
+#clustering method	cluster number	cluster color	hex color	gene count	protein name	protein identifier	protein description
+kmeans	1	Red	#ff0000	15	OG0000088_x03	425635.ENSCPGP00000019826	LYN proto-oncogene, Src family tyrosine kinase.
+kmeans	1	Red	#ff0000	15	OG0000287_x01	425635.ENSCPGP00000027400	Plexin A2.
+kmeans	1	Red	#ff0000	15	OG0000414_x01	425635.ENSCPGP00000012207	Fibroblast growth factor receptor 1.
+kmeans	1	Red	#ff0000	15	OG0000952_x01	425635.ENSCPGP00000000291	SOS Ras/Rho guanine nucleotide exchange factor 2.
+kmeans	1	Red	#ff0000	15	OG0001757_x01	425635.ENSCPGP00000015194	Inositol polyphosphate-5-phosphatase D.
+kmeans	1	Red	#ff0000	15	OG0001971_x00	425635.ENSCPGP00000015785	annotation not available
+kmeans	1	Red	#ff0000	15	OG0002976_x00	425635.ENSCPGP00000015309	annotation not available
+kmeans	1	Red	#ff0000	15	OG0005235_x00	425635.ENSCPGP00000015539	Sprouty RTK signaling antagonist 4.
+kmeans	1	Red	#ff0000	15	OG0006015_x00	425635.ENSCPGP00000017945	Cbl proto-oncogene B.
+kmeans	1	Red	#ff0000	15	OG0007295_x00	425635.ENSCPGP00000022219	Clathrin interactor 1.
+kmeans	1	Red	#ff0000	15	OG0007486_x00	425635.ENSCPGP00000019933	Insulin receptor.
+kmeans	1	Red	#ff0000	15	OG0007645_x00	425635.ENSCPGP00000014489	Src-related kinase lacking C-terminal regulatory tyrosine and N-terminal myristylation sites.
+kmeans	1	Red	#ff0000	15	OG0007723_x00	425635.ENSCPGP00000023078	Synergin gamma.
+kmeans	1	Red	#ff0000	15	OG0009783_x00	425635.ENSCPGP00000025122	Phospholipase C gamma 2.
+kmeans	1	Red	#ff0000	15	OG0011602_x00	425635.ENSCPGP00000008645	Suppressor of cytokine signaling 7.
+kmeans	2	Brown	#ffa865	10	OG0000621_x00	425635.ENSCPGP00000003556	Serine palmitoyltransferase long chain base subunit 2.
+kmeans	2	Brown	#ffa865	10	OG0000999_x00	425635.ENSCPGP00000014526	annotation not available
+kmeans	2	Brown	#ffa865	10	OG0001935_x00	425635.ENSCPGP00000024965	annotation not available
+kmeans	2	Brown	#ffa865	10	OG0002888_x00	425635.ENSCPGP00000019235	Cystathionine gamma-lyase.
+kmeans	2	Brown	#ffa865	10	OG0006354_x00	425635.ENSCPGP00000013530	Aminoacyl tRNA synthetase complex interacting multifunctional protein 1.
+kmeans	2	Brown	#ffa865	10	OG0007374_x00	425635.ENSCPGP00000009804	Amidohydrolase domain containing 1.
+kmeans	2	Brown	#ffa865	10	OG0007557_x00	425635.ENSCPGP00000013021	Kynurenine 3-monooxygenase.
+kmeans	2	Brown	#ffa865	10	OG0007621_x00	425635.ENSCPGP00000026636	Coenzyme Q5, methyltransferase.
+kmeans	2	Brown	#ffa865	10	OG0008156_x00	425635.ENSCPGP00000013694	Selenocysteine lyase.
+kmeans	2	Brown	#ffa865	10	OG0008343_x00	425635.ENSCPGP00000007565	3-ketodihydrosphingosine reductase.
+kmeans	3	Dark Golden Rod	#b29b00	10	OG0000775_x00	425635.ENSCPGP00000003204	Ferredoxin 1.
+kmeans	3	Dark Golden Rod	#b29b00	10	OG0001274_x01	425635.ENSCPGP00000001808	Serine hydroxymethyltransferase 1.
+kmeans	3	Dark Golden Rod	#b29b00	10	OG0003866_x00	425635.ENSCPGP00000023349	Phosphoglucomutase 2 like 1.
+kmeans	3	Dark Golden Rod	#b29b00	10	OG0005823_x00	425635.ENSCPGP00000005743	Solute carrier family 25 member 48.
+kmeans	3	Dark Golden Rod	#b29b00	10	OG0006321_x00	425635.ENSCPGP00000027918	Transketolase.
+kmeans	3	Dark Golden Rod	#b29b00	10	OG0006659_x00	425635.ENSCPGP00000025858	Methionyl aminopeptidase type 1D, mitochondrial.
+kmeans	3	Dark Golden Rod	#b29b00	10	OG0008739_x00	425635.ENSCPGP00000019483	Glycerate kinase.
+kmeans	3	Dark Golden Rod	#b29b00	10	OG0009267_x00	425635.ENSCPGP00000021455	Glycine N-methyltransferase.
+kmeans	3	Dark Golden Rod	#b29b00	10	OG0010190_x00	425635.ENSCPGP00000014481	Glucosamine (UDP-N-acetyl)-2-epimerase/N-acetylmannosamine kinase.
+kmeans	3	Dark Golden Rod	#b29b00	10	OG0011385_x00	425635.ENSCPGP00000002395	Nudix hydrolase 15.
+kmeans	4	Green Yellow	#cfff65	10	OG0000071_x01	425635.ENSCPGP00000002363	annotation not available
+kmeans	4	Green Yellow	#cfff65	10	OG0000171_x00	425635.ENSCPGP00000006331	Alcohol dehydrogenase 5 (class III), chi polypeptide.
+kmeans	4	Green Yellow	#cfff65	10	OG0001543_x01	425635.ENSCPGP00000011536	Retinol saturase.
+kmeans	4	Green Yellow	#cfff65	10	OG0002989_x00	425635.ENSCPGP00000000829	Glutathione-disulfide reductase.
+kmeans	4	Green Yellow	#cfff65	10	OG0004119_x00	425635.ENSCPGP00000003726	Glutathione S-transferase zeta 1.
+kmeans	4	Green Yellow	#cfff65	10	OG0005254_x00	425635.ENSCPGP00000015543	Metabolism of cobalamin associated C.
+kmeans	4	Green Yellow	#cfff65	10	OG0006372_x00	425635.ENSCPGP00000027129	Myocardin related transcription factor A.
+kmeans	4	Green Yellow	#cfff65	10	OG0007461_x00	425635.ENSCPGP00000014909	15-hydroxyprostaglandin dehydrogenase.
+kmeans	4	Green Yellow	#cfff65	10	OG0010218_x00	425635.ENSCPGP00000021959	Dicarbonyl and L-xylulose reductase.
+kmeans	4	Green Yellow	#cfff65	10	OG0010348_x00	425635.ENSCPGP00000005770	EGF like, fibronectin type III and laminin G domains.
+kmeans	5	Lime Green	#2db200	8	OG0004185_x00	425635.ENSCPGP00000012966	Tyrosylprotein sulfotransferase 1.
+kmeans	5	Lime Green	#2db200	8	OG0004422_x00	425635.ENSCPGP00000012770	Cyclin dependent kinase 2 interacting protein.
+kmeans	5	Lime Green	#2db200	8	OG0006428_x00	425635.ENSCPGP00000027717	F-box protein 5.
+kmeans	5	Lime Green	#2db200	8	OG0007286_x00	425635.ENSCPGP00000002375	Anaphase promoting complex subunit 5.
+kmeans	5	Lime Green	#2db200	8	OG0009081_x00	425635.ENSCPGP00000025361	Polo like kinase 4.
+kmeans	5	Lime Green	#2db200	8	OG0009878_x00	425635.ENSCPGP00000011101	Anaphase promoting complex subunit 1.
+kmeans	5	Lime Green	#2db200	8	OG0009983_x00	425635.ENSCPGP00000023666	Tetratricopeptide repeat domain 13.
+kmeans	5	Lime Green	#2db200	8	OG0010949_x00	425635.ENSCPGP00000020169	annotation not available
+kmeans	6	Light Green	#65ff81	7	OG0003157_x00	425635.ENSCPGP00000019274	Sterol carrier protein 2.
+kmeans	6	Light Green	#65ff81	7	OG0003676_x00	425635.ENSCPGP00000000854	methylmalonyl-CoA mutase.
+kmeans	6	Light Green	#65ff81	7	OG0004263_x00	425635.ENSCPGP00000011771	succinate-CoA ligase GDP-forming beta subunit.
+kmeans	6	Light Green	#65ff81	7	OG0005400_x00	425635.ENSCPGP00000019392	Carnitine palmitoyltransferase 2.
+kmeans	6	Light Green	#65ff81	7	OG0005960_x00	425635.ENSCPGP00000014406	acyl-CoA oxidase 2.
+kmeans	6	Light Green	#65ff81	7	OG0006648_x00	425635.ENSCPGP00000014477	acyl-CoA oxidase 1.
+kmeans	6	Light Green	#65ff81	7	OG0008274_x00	425635.ENSCPGP00000015524	acyl-CoA dehydrogenase family member 8.
+kmeans	7	Green	#00b26e	6	OG0003427_x00	425635.ENSCPGP00000012114	Apoptosis inducing factor mitochondria associated 3.
+kmeans	7	Green	#00b26e	6	OG0004694_x00	425635.ENSCPGP00000004758	Proteasome 20S subunit beta 2.
+kmeans	7	Green	#00b26e	6	OG0005096_x00	425635.ENSCPGP00000023320	Superoxide dismutase 1.
+kmeans	7	Green	#00b26e	6	OG0005317_x00	425635.ENSCPGP00000021135	annotation not available
+kmeans	7	Green	#00b26e	6	OG0006889_x00	425635.ENSCPGP00000021727	annotation not available
+kmeans	7	Green	#00b26e	6	OG0007004_x00	425635.ENSCPGP00000000073	WD repeat domain 92.
+kmeans	8	Cyan	#65f6ff	5	OG0001000_x00	425635.ENSCPGP00000024474	annotation not available
+kmeans	8	Cyan	#65f6ff	5	OG0003694_x00	425635.ENSCPGP00000004658	glutamyl-tRNA amidotransferase subunit B.
+kmeans	8	Cyan	#65f6ff	5	OG0006266_x00	425635.ENSCPGP00000011425	aspartyl-tRNA synthetase 2, mitochondrial.
+kmeans	8	Cyan	#65f6ff	5	OG0007250_x00	425635.ENSCPGP00000018793	asparaginyl-tRNA synthetase 2, mitochondrial.
+kmeans	8	Cyan	#65f6ff	5	OG0007498_x00	425635.ENSCPGP00000004976	arginyl-tRNA synthetase 2, mitochondrial.
+kmeans	9	Blue	#005ab2	5	OG0001143_x01	425635.ENSCPGP00000002057	Lysine acetyltransferase 2B.
+kmeans	9	Blue	#005ab2	5	OG0006946_x00	425635.ENSCPGP00000023325	TATA-box binding protein like 2.
+kmeans	9	Blue	#005ab2	5	OG0008315_x00	425635.ENSCPGP00000007426	TATA-box binding protein associated factor 5.
+kmeans	9	Blue	#005ab2	5	OG0008867_x00	425635.ENSCPGP00000023573	Ubiquitin specific peptidase 30.
+kmeans	9	Blue	#005ab2	5	OG0008997_x00	425635.ENSCPGP00000014443	Small nuclear RNA activating complex polypeptide 4.
+kmeans	10	Purple	#6571ff	5	OG0000058_x01	425635.ENSCPGP00000009143	annotation not available
+kmeans	10	Purple	#6571ff	5	OG0002666_x00	425635.ENSCPGP00000009069	annotation not available
+kmeans	10	Purple	#6571ff	5	OG0002763_x00	425635.ENSCPGP00000024691	Intraflagellar transport 140.
+kmeans	10	Purple	#6571ff	5	OG0003637_x00	425635.ENSCPGP00000004918	Ankyrin repeat domain 55.
+kmeans	10	Purple	#6571ff	5	OG0008995_x00	425635.ENSCPGP00000024857	annotation not available
+kmeans	11	Pink	#ef75aa	5	OG0000851_x01	425635.ENSCPGP00000002396	Adenylosuccinate synthase 1.
+kmeans	11	Pink	#ef75aa	5	OG0000916_x00	425635.ENSCPGP00000011589	5'-nucleotidase, cytosolic IA.
+kmeans	11	Pink	#ef75aa	5	OG0001282_x01	425635.ENSCPGP00000000926	Uridine phosphorylase 1.
+kmeans	11	Pink	#ef75aa	5	OG0007892_x00	425635.ENSCPGP00000020050	Adenine phosphoribosyltransferase.
+kmeans	11	Pink	#ef75aa	5	OG0008431_x00	425635.ENSCPGP00000025781	Adenylate kinase 6.
