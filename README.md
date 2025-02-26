@@ -12,4 +12,4 @@ The repository contains:
 - [06_Network](./05_Network/): how we used the results of these evolutionary analysis to construct the lifespan network and how we elaborated it.
 - [07_R_analyses](./06_R_analyses/): how we perfomed more general analysis and visualized results displayed in the work using mainly R scripts.
 
-All the folders contain also the script and the main input files needed to perfomed the passages described in the respective README files.
+All the folders contain the scripts and the main input files needed to perfomed the passages described in the respective README files.

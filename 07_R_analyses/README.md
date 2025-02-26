@@ -7,3 +7,5 @@ This folder contains the R scripts we used to perfomer general statistic analyse
 - [GO_enrichment.R](./Scripts/GO_enrichment.R): containes the function we used to perform GO term enrichment analyses. [Backgorund](./Files/aves_interpro_GOback.txt)
 - [KO_enrichment.R](./Scripts/KO_enrichment.R): containes the function we used to perform KO term enrichment analyses. [Orthologue background](./Files/aves_KO_orthologue_universe.txt) and [pathway background](./Files/aves_KO_pathway_universe.txt).
 - [TRACCER.R](./Scripts/TRACCER.R): contains the code used to visualize TRACCER results.
+
+Backgronds of KO and GO terms enrichment analyses were annotated using the file [longest_protein_OGs.txt](./Files/longest_protein_OGs.txt)
